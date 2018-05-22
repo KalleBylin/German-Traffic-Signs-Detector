@@ -1,7 +1,7 @@
 # German-Traffic-Signs-Detector
 Kiwi Campus Deep Learning Challenge according to the following instructions:
 
-# Deep Learning Challenge
+## Deep Learning Challenge
 
 The following tasks are designed to test your current skills. Some of the tasks may be easier than others; moreover, some tasks will require skills that you will acquire in the Self-dringving Cars nanodegree, so do not feel bad if you decide your not ready to perform some of the tasks.
 
